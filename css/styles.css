@@ -162,6 +162,15 @@ nav{
   color: black;
 }
 
+.press-logo:hover{
+  width: 100%;
+  box-shadow: 0px 0px 9px 1px #0000004f;
+  border-radius: 100%;
+  margin-bottom: 20%;
+  background-color: white;
+  opacity: 80%;
+}
+
 #press .container-fluid{
   padding: 5% 10%;
 }
